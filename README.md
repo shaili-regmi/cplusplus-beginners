@@ -17,7 +17,8 @@ visual debugger.
 1. Install [Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/), our C++ compiler
 
 *Important!!* During installation, select: Desktop development with C++ 
-![InstallOptions](InstallMSVC.png=250x "InstallMSVC")
+
+<img src="InstallMSVC.png" alt="InstallOptions" width="200"/>
 
 2. Double click the solution file to open it: `2019MSDev/cplusplus.sln`. 
 
