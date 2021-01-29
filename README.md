@@ -30,7 +30,7 @@ Double click the solution file to open it: `2019MSDev/cplusplus.sln`.
 * Right click an example from the pane at the right (in the "Solution Explorer") to make it the current project. 
 * To run from the menu, click "Debug/Start Debugging" to step through the code line by line.
 
-For those of you new to Visual Studio, this video shows how to build, run, and debug. 
+For those of you new to Visual Studio, this [video shows how to build, run, and debug](https://youtu.be/hZ_ZZy0j7Vk). 
 
 ## macOS 
 
