@@ -14,15 +14,17 @@ a C++ development environment that you're already happy with, I will recommend t
 We will use Microsoft's Visual Studio as our IDE (integrated development environment). Visual studio combines an editor and 
 visual debugger. 
 
-1. Install [Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/), our C++ compiler
+### Install Visual Studio 
+
+Download and install [Visual Studio Community 2019](https://visualstudio.microsoft.com/vs/community/).
 
 *Important!!* During installation, select: Desktop development with C++ 
 
 <img src="InstallMSVC.png" alt="InstallOptions" width="200"/>
 
-2. Double click the solution file to open it: `2019MSDev/cplusplus.sln`. 
+### Build
 
-Quick tips for using visual studio:
+Double click the solution file to open it: `2019MSDev/cplusplus.sln`. 
 
 * From the menu, click "Build/Build Solution" to build every example. 
 * Right click an example from the pane at the right (in the "Solution Explorer") to make it the current project. 
@@ -34,14 +36,17 @@ For those of you new to Visual Studio, this video shows how to build, run, and d
 
 On macOS, I recommend Visual Studio Code (VS Code) with clang as our C++ compiler and lldb as our C++ debugger. 
 
-1. Install Clang, our C++ compiler. 
+### Install Clang development tools
 
 From terminal, run `command xcode-select --install`
 
 * You can follow the instructions [here](https://www.ics.uci.edu/~pattis/common/handouts/macclion/clang.html)
 * A quick way to open terminal is to use spotlight. From the keyboard, type the `<cmd>` and `<spacebar>`. Then type `terminal` at the popup edit field.
 
-2. Install [VS Code](https://code.visualstudio.com/)
+With clang, you can already compile and build C++ programs. However, I'm going to recommend you install VS Code, which will 
+make working with larger codebases easier.
+
+### Install [VS Code](https://code.visualstudio.com/)
 
 VS Code combines a terminal, editor window, and visual debugger together. 
 
