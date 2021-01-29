@@ -50,9 +50,10 @@ make working with larger codebases easier.
 
 VS Code combines a terminal, editor window, and visual debugger together. 
 
-Quick tips for using VS Code with its terminal: 
+Quick tips for using terminal: 
 
 * To build, you run the command `clang++ <filename>` in the terminal. This will generate an executable, called `a.out`
 * To run, type `.\a.out` in the VS Code terminal.
 
+For those of you new to using terminal and VS Code, this [video shows how to build, run, and debug on macOS](https://youtu.be/DEytbPbfZVo).
 
