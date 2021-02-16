@@ -1,0 +1,3 @@
+To build, generate project files using cmake. See Readme.md for details
+
+
