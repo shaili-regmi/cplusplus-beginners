@@ -24,7 +24,12 @@ Download and install [Visual Studio Community 2019](https://visualstudio.microso
 
 ### Build
 
-Double click the solution file to open it: `2019MSDev/cplusplus.sln`. 
+You will need to generate the solution file. Right click on the directory containing this repository and open Git Bash. Then 
+execute the following commands
+
+<img src="cmake-win.png" alt="CMake" width="200"/>
+
+Inside Visual Studio, do the following to build:
 
 * From the menu, click "Build/Build Solution" to build every example. 
 * Right click an example from the pane at the right (in the "Solution Explorer") to make it the current project. 
